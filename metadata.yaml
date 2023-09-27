@@ -1,0 +1,29 @@
+_repo: Violin-tone-and-violin-makers_71706
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Moya, Hidalgo
+    gutenberg_agent_id: '56340'
+    url: http://www.gutenberg.org/2009/agents/56340
+  - agent_name: Piper, Towry
+    gutenberg_agent_id: '56341'
+    url: http://www.gutenberg.org/2009/agents/56341
+description: ''
+gutenberg_issued: '2023-09-23'
+identifiers:
+  gutenberg: '71706'
+language: en
+pgterms:marc904: https://archive.org/details/violintoneviolin00moyauoft/page/n3/mode/2up
+pgterms:marc905: 20230306160432moya
+pgterms:marc906: '1916'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: '  $aLondon :$bChatto & Windus, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Violin tone and violin makers
+url: http://www.gutenberg.org/ebooks/71706
